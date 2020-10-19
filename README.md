@@ -1,6 +1,6 @@
 # zoombot
 
-By Daniel Qiang (@danielqiang), Arjun Srivastava (@Guitarjun), Sanjana Sathyanarayanan (@ssanju2000), Abhishek Shah (@)
+By Daniel Qiang ([@danielqiang](https://github.com/danielqiang)), Arjun Srivastava ([@Guitarjun](https://github.com/Guitarjun)), Sanjana Sathyanarayanan ([@ssanju2000](https://github.com/ssanju2000)), Abhishek Shah (@)
 
 **zoombot** is an AI chatbot and audio player that can talk to meeting participants on [Zoom](https://zoom.us/) 
 in real time via voice (no chat messaging necessary), in addition to supporting voice commands for Spotify/YouTube audio.
